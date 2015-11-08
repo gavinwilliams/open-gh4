@@ -6,6 +6,7 @@ My main aim for this project is to produce an iOS SDK that can be installed via 
 Out of the cameras I’ve had a play with, the GH4’s app kind of sucks, so the idea is to produce a better version of what Panasonic have produced.
 
 # Discovered Endpoints
+
 ```http://192.168.54.1:80/cam.cgi?mode=accctrl&type=req_acc&value=4D454930-0100-1000-8001-02070002D200&value2=iPhone```
 Puts the camera in control mode
 
